@@ -1,0 +1,37 @@
+# apm-server:
+#   host: "http://apm_server:8200"
+
+apm-server:
+  host: "http://apm_server:8200"
+  # rum:
+  #   enabled: true
+  #   rate_limit: 10
+  #   allow_origins : ['*']
+
+setup.kibana:
+  host: "http://kibana:5601"
+  username: elastic
+  password: changeme
+
+output.elasticsearch:
+  hosts: ["http://elasticsearch:9200"]
+  username: elastic
+  password: changeme
+  # index: "apm-server-%{[beat.version]}-%{+yyyy.MM.dd}"
+  indices:
+    - index: "apm-%{[beat.version]}-sourcemap"
+      when.contains:
+        processor.event: "sourcemap"
+
+    - index: "apm-%{[beat.version]}-error-%{+yyyy.MM.dd}"
+      when.contains:
+        processor.event: "error"
+
+    - index: "apm-%{[beat.version]}-transaction-%{+yyyy.MM.dd}"
+      when.contains:
+        processor.event: "transaction"
+
+    - index: "apm-%{[beat.version]}-span-%{+yyyy.MM.dd}"
+      when.contains:
+        processor.event: "span"
+
