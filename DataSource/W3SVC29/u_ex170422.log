@@ -1,0 +1,260 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 00:16:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 00:16:29 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1671
+2017-04-22 00:16:30 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2797
+2017-04-22 00:16:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 125
+2017-04-22 00:17:04 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 109
+2017-04-22 00:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1609
+2017-04-22 00:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1609
+2017-04-22 00:17:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 2937
+2017-04-22 00:17:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 2937
+2017-04-22 00:17:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 2937
+2017-04-22 00:17:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-04-22 00:17:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 00:17:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1221
+2017-04-22 00:17:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 00:18:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 00:18:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 00:18:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-04-22 00:18:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-04-22 00:18:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-04-22 00:18:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2017-04-22 00:18:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-04-22 00:18:22 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1137
+2017-04-22 00:19:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2017-04-22 00:19:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 01:00:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 01:00:34 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1703
+2017-04-22 01:00:35 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2934
+2017-04-22 01:00:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1578
+2017-04-22 01:00:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1578
+2017-04-22 01:00:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1578
+2017-04-22 01:00:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1593
+2017-04-22 01:00:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1624
+2017-04-22 01:00:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-04-22 01:00:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 01:01:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1420
+2017-04-22 01:01:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 109
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 546
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 546
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 562
+2017-04-22 01:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 562
+2017-04-22 01:02:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1406
+2017-04-22 01:03:20 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 971
+2017-04-22 01:03:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 48
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 04:14:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 04:14:30 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1796
+2017-04-22 04:14:31 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 3002
+2017-04-22 04:14:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1609
+2017-04-22 04:14:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1609
+2017-04-22 04:14:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1609
+2017-04-22 04:14:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1735
+2017-04-22 04:14:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1875
+2017-04-22 04:14:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2017-04-22 04:14:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 04:14:40 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 93
+2017-04-22 04:14:53 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 187
+2017-04-22 04:14:54 10.37.91.214 POST /Service/ego/Cart/Add - 443 - 192.168.10.254 - - 200 0 0 1188
+2017-04-22 04:14:59 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 531
+2017-04-22 04:15:15 10.37.91.214 POST /Service/ego/Cart/AddCoupon - 443 - 192.168.10.254 - - 200 0 0 828
+2017-04-22 04:15:30 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 703
+2017-04-22 04:15:33 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 406
+2017-04-22 04:15:33 10.37.91.214 POST /Service/ego/Cart/PaymentTypes - 443 - 192.168.10.254 - - 200 0 0 93
+2017-04-22 04:15:33 10.37.91.214 POST /Service/ego/Site/SocialWelfare - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 04:15:34 10.37.91.214 POST /Service/ego/Site/Postal - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 04:15:35 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 593
+2017-04-22 04:15:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 04:15:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 04:15:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 04:15:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 04:15:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-04-22 04:15:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2017-04-22 04:15:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2017-04-22 04:15:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1345
+2017-04-22 04:15:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 09:53:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 09:53:18 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1687
+2017-04-22 09:53:19 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2739
+2017-04-22 09:53:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1406
+2017-04-22 09:53:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1406
+2017-04-22 09:53:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1453
+2017-04-22 09:53:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1484
+2017-04-22 09:53:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1484
+2017-04-22 09:53:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-04-22 09:53:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 09:54:20 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1200
+2017-04-22 09:54:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 124
+2017-04-22 09:54:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 09:54:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 09:54:42 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 09:54:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-04-22 09:54:43 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 09:54:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 406
+2017-04-22 09:54:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 406
+2017-04-22 09:54:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 421
+2017-04-22 09:54:44 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1109
+2017-04-22 09:56:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1190
+2017-04-22 09:56:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 11:09:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 11:09:43 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1624
+2017-04-22 11:09:44 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2953
+2017-04-22 11:09:45 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 2031
+2017-04-22 11:09:47 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-04-22 11:09:47 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2017-04-22 11:09:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-04-22 11:09:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-04-22 11:09:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-04-22 11:09:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-04-22 11:09:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2017-04-22 11:10:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-04-22 11:10:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-04-22 11:11:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-04-22 11:11:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-04-22 11:11:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-04-22 11:11:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 11:11:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 11:11:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 531
+2017-04-22 11:11:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1132
+2017-04-22 11:11:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 14:25:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 14:25:45 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1640
+2017-04-22 14:25:46 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2624
+2017-04-22 14:25:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1453
+2017-04-22 14:25:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1453
+2017-04-22 14:25:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1468
+2017-04-22 14:25:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1468
+2017-04-22 14:25:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1484
+2017-04-22 14:25:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-04-22 14:25:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2017-04-22 14:26:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-04-22 14:26:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 14:26:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 775
+2017-04-22 14:26:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 760
+2017-04-22 14:26:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 760
+2017-04-22 14:26:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 760
+2017-04-22 14:26:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 775
+2017-04-22 14:27:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1241
+2017-04-22 14:27:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 17:25:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 17:25:15 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1578
+2017-04-22 17:25:16 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2601
+2017-04-22 17:25:18 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2017-04-22 17:25:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-04-22 17:25:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 812
+2017-04-22 17:25:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 906
+2017-04-22 17:25:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 17:25:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-04-22 17:25:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 17:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-04-22 17:26:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1168
+2017-04-22 17:26:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 17:26:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 32
+2017-04-22 17:26:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 17:26:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 737
+2017-04-22 17:26:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 737
+2017-04-22 17:26:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 737
+2017-04-22 17:26:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 737
+2017-04-22 17:26:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 737
+2017-04-22 17:26:43 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1320
+2017-04-22 17:28:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1207
+2017-04-22 17:28:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 47
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 18:28:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 18:28:25 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1156
+2017-04-22 18:28:26 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2631
+2017-04-22 18:28:28 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 1406
+2017-04-22 18:28:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 18:28:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 18:29:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 18:29:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 18:29:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 265
+2017-04-22 18:29:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1343
+2017-04-22 18:29:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 20:55:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 20:55:16 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1781
+2017-04-22 20:55:16 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2609
+2017-04-22 20:55:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 1921
+2017-04-22 20:55:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-04-22 20:55:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 20:56:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1145
+2017-04-22 20:56:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 20:56:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 20:56:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 20:56:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 20:56:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 933
+2017-04-22 20:56:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 296
+2017-04-22 20:58:00 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 894
+2017-04-22 20:58:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 32
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 21:54:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 21:54:48 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1734
+2017-04-22 21:54:50 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2908
+2017-04-22 21:54:52 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 1742
+2017-04-22 21:54:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 21:54:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-04-22 21:56:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 21:56:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-04-22 21:56:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 532
+2017-04-22 21:56:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1449
+2017-04-22 21:56:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2017-04-22 22:05:17 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 52
+2017-04-22 22:05:17 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1171
+2017-04-22 22:05:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 22:06:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-04-22 22:06:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1169
+2017-04-22 22:06:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-22 22:26:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-22 22:26:24 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-04-22 22:26:25 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1227
+2017-04-22 22:26:25 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 265
+2017-04-22 22:26:25 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 249
+2017-04-22 22:26:26 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2017-04-22 22:26:26 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-04-22 22:26:26 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-04-22 22:26:26 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 787
+2017-04-22 22:26:28 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 250
+2017-04-22 22:26:28 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 249
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 203
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 218
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 203
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 687
+2017-04-22 22:27:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2017-04-22 22:27:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1023
+2017-04-22 22:27:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46

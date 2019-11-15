@@ -1,0 +1,767 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 00:28:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 00:28:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15640
+2017-11-25 00:28:42 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15203
+2017-11-25 00:28:43 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16858
+2017-11-25 00:28:51 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6218
+2017-11-25 00:28:51 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 609
+2017-11-25 00:28:55 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 00:28:55 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:30:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 00:30:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:30:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 00:30:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 499
+2017-11-25 00:30:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 00:30:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1325
+2017-11-25 00:30:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 00:32:11 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 00:32:11 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 00:32:11 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1005
+2017-11-25 00:32:12 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 00:32:12 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 578
+2017-11-25 00:32:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:32:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:33:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:33:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:33:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 172
+2017-11-25 00:33:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 628
+2017-11-25 00:33:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 00:33:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1019
+2017-11-25 00:33:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:48:46 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 00:48:46 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 00:48:47 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1316
+2017-11-25 00:48:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 00:48:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 00:48:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 00:48:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 00:48:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 00:48:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:48:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 00:50:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 00:50:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1245
+2017-11-25 00:50:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 01:03:35 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 01:03:35 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 01:03:35 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 984
+2017-11-25 01:03:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 01:03:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 01:03:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 01:03:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 01:03:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 01:03:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 01:03:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2017-11-25 01:04:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 01:04:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1119
+2017-11-25 01:04:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 01:08:49 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 01:08:49 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 01:08:49 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1009
+2017-11-25 01:08:50 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 01:08:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 01:08:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 01:10:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 47
+2017-11-25 01:10:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 01:10:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 01:10:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 01:10:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 952
+2017-11-25 01:10:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 01:44:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 01:44:39 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 12937
+2017-11-25 01:44:39 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 12937
+2017-11-25 01:44:39 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15545
+2017-11-25 01:44:48 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7015
+2017-11-25 01:44:48 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 468
+2017-11-25 01:44:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 01:44:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 01:45:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 01:45:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 01:45:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1377
+2017-11-25 01:46:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 01:46:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 01:46:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 01:46:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1060
+2017-11-25 01:46:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 343
+2017-11-25 01:46:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 01:47:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 994
+2017-11-25 01:47:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 03:00:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 03:00:30 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16156
+2017-11-25 03:00:30 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16312
+2017-11-25 03:00:30 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17004
+2017-11-25 03:00:39 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6453
+2017-11-25 03:00:39 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 343
+2017-11-25 03:00:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 125
+2017-11-25 03:00:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 03:01:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 03:01:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 03:01:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1128
+2017-11-25 03:01:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 03:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:02:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:02:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 03:02:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 03:02:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1093
+2017-11-25 03:03:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 989
+2017-11-25 03:03:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:17:10 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 03:17:10 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 03:17:10 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 937
+2017-11-25 03:17:10 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 03:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 03:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 03:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 03:18:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:18:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 03:18:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1069
+2017-11-25 03:18:25 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 03:18:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 03:18:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 03:18:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 03:18:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 03:18:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 03:18:25 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 04:16:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 04:16:18 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15609
+2017-11-25 04:16:18 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15546
+2017-11-25 04:16:18 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16561
+2017-11-25 04:16:27 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6796
+2017-11-25 04:16:27 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 468
+2017-11-25 04:16:31 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 04:16:32 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 04:17:08 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 04:17:08 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 624
+2017-11-25 04:17:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 04:17:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1090
+2017-11-25 04:17:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 04:17:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 04:17:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 04:17:39 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 04:17:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 04:18:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 04:18:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 04:18:20 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1000
+2017-11-25 04:18:22 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 531
+2017-11-25 04:19:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 982
+2017-11-25 04:19:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 05:32:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 05:32:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 12749
+2017-11-25 05:32:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 12687
+2017-11-25 05:32:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 13845
+2017-11-25 05:32:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7015
+2017-11-25 05:32:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 05:32:14 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 05:32:14 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 05:33:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 05:33:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 125
+2017-11-25 05:33:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 05:33:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 05:33:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 05:33:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1119
+2017-11-25 05:33:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 06:24:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 06:24:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 5718
+2017-11-25 06:24:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 5937
+2017-11-25 06:24:20 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 11452
+2017-11-25 06:24:24 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2017-11-25 06:24:24 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2017-11-25 06:24:29 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4671
+2017-11-25 06:24:29 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5234
+2017-11-25 06:24:29 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4656
+2017-11-25 06:24:30 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 06:24:31 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 06:25:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 06:25:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 06:25:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 06:25:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1337
+2017-11-25 06:25:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 06:25:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 06:25:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 06:25:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 06:25:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 06:25:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 06:47:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 06:47:50 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14874
+2017-11-25 06:47:50 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14812
+2017-11-25 06:47:50 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15676
+2017-11-25 06:47:58 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6171
+2017-11-25 06:47:58 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 703
+2017-11-25 06:48:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 06:48:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 06:49:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 876
+2017-11-25 06:49:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 06:49:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 06:49:00 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1298
+2017-11-25 06:49:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 06:49:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 06:49:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 07:37:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 07:37:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14781
+2017-11-25 07:37:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14687
+2017-11-25 07:37:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15561
+2017-11-25 07:37:50 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7218
+2017-11-25 07:37:50 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 656
+2017-11-25 07:37:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 07:37:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 07:39:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 07:39:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 07:39:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 07:39:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 564
+2017-11-25 07:39:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 07:39:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1336
+2017-11-25 07:39:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 07:56:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 07:56:09 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 07:56:09 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 07:56:11 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=1&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=2&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=3&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 406
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=4&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 07:56:11 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 125
+2017-11-25 07:56:12 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=5&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 07:56:12 10.37.91.214 POST /Service/bigshop/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 07:56:12 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 124
+2017-11-25 07:56:17 10.37.91.214 POST /Service/bigshop/Bonus/SummaryBenefit token= 80 - 192.168.10.254 - - 401 0 0 390
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 07:57:20 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 296
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=1&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 312
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=2&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 531
+2017-11-25 07:57:20 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=3&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 312
+2017-11-25 07:57:21 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=4&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 07:57:21 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=5&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 08:03:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 08:03:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 08:03:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 968
+2017-11-25 08:03:24 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 08:03:24 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 484
+2017-11-25 08:03:27 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:03:27 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:04:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:04:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 08:04:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 484
+2017-11-25 08:04:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 08:04:43 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 969
+2017-11-25 08:04:43 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 08:17:10 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 08:17:10 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 08:17:10 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 955
+2017-11-25 08:17:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 08:17:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 578
+2017-11-25 08:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:17:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:18:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:18:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:18:22 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 833
+2017-11-25 08:18:23 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 08:18:23 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1177
+2017-11-25 08:18:23 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 08:18:23 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 08:37:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 08:37:10 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 08:37:10 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 08:37:11 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1116
+2017-11-25 08:37:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 08:37:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:37:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 08:38:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:38:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:38:23 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 08:38:23 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 08:38:24 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 912
+2017-11-25 08:38:24 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:41:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 08:41:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 08:41:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1171
+2017-11-25 08:41:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 08:41:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2017-11-25 08:41:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2017-11-25 08:41:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2017-11-25 08:41:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-11-25 08:41:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:41:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:42:42 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 08:42:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 907
+2017-11-25 08:42:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 08:43:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 08:43:04 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1110
+2017-11-25 08:44:23 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 961
+2017-11-25 08:44:23 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 09:19:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 09:19:27 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15562
+2017-11-25 09:19:27 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15624
+2017-11-25 09:19:27 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16476
+2017-11-25 09:19:37 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7218
+2017-11-25 09:19:37 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 09:19:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 09:19:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 09:20:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 09:20:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 09:20:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 09:20:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 952
+2017-11-25 09:20:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 09:21:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 09:21:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 09:38:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 09:38:34 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 09:38:34 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 09:38:34 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1037
+2017-11-25 09:38:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 09:38:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-11-25 09:38:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-11-25 09:38:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-11-25 09:38:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 09:38:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 09:38:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2017-11-25 09:39:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 09:39:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1099
+2017-11-25 09:39:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 10:35:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 10:35:11 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14765
+2017-11-25 10:35:11 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14718
+2017-11-25 10:35:11 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15473
+2017-11-25 10:35:21 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7124
+2017-11-25 10:35:21 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 656
+2017-11-25 10:35:24 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 10:35:24 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 10:36:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 10:36:20 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 999
+2017-11-25 10:36:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 10:36:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 10:36:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 10:36:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 10:36:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 515
+2017-11-25 10:36:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 10:36:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1078
+2017-11-25 10:38:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1061
+2017-11-25 10:38:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 11:50:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 11:50:58 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14671
+2017-11-25 11:50:58 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14624
+2017-11-25 11:50:58 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15468
+2017-11-25 11:51:07 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6749
+2017-11-25 11:51:07 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 640
+2017-11-25 11:51:10 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 11:51:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:52:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 11:52:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1122
+2017-11-25 11:52:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:52:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:52:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 36
+2017-11-25 11:52:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 11:52:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 630
+2017-11-25 11:52:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 11:52:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 985
+2017-11-25 11:53:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1031
+2017-11-25 11:53:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 11:54:26 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 11:54:26 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 11:54:27 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1066
+2017-11-25 11:54:27 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 11:54:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 11:54:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 11:54:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 11:54:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 11:54:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:54:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:55:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:55:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:55:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1161
+2017-11-25 11:55:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 158
+2017-11-25 11:55:43 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 11:55:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 11:55:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 11:55:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 11:55:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 11:55:43 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 12:03:12 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 12:03:12 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 12:03:12 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 12:03:12 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 124
+2017-11-25 12:03:12 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=1&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 249
+2017-11-25 12:03:12 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=2&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=3&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=4&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=5&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 12:03:13 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 0
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 125
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=1&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 249
+2017-11-25 12:03:13 10.37.91.214 POST /Service/bigshop/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 12:03:14 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=2&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 12:03:14 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=3&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 12:03:14 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=4&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 359
+2017-11-25 12:03:14 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=5&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 12:04:20 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=1&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=2&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=3&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 12:04:20 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=4&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 12:04:21 10.37.91.214 POST /Service/bigshop/Product/Products productNo=&categoryId=5&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 12:25:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 12:25:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14906
+2017-11-25 12:25:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14999
+2017-11-25 12:25:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15948
+2017-11-25 12:25:49 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6953
+2017-11-25 12:25:49 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 12:25:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 12:25:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 12:27:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 12:27:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 12:27:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 12:27:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 12:27:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 12:27:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1120
+2017-11-25 12:27:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 13:06:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 13:06:46 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15078
+2017-11-25 13:06:46 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15124
+2017-11-25 13:06:46 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16062
+2017-11-25 13:06:57 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7124
+2017-11-25 13:06:57 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 13:07:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 13:07:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:08:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 13:08:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 13:08:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 13:08:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1105
+2017-11-25 13:08:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 13:08:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:08:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:17:54 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 13:17:54 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 13:17:55 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1186
+2017-11-25 13:17:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 13:17:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 13:17:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2017-11-25 13:17:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 13:17:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 13:17:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:17:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:17:59 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 13:19:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:19:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:19:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1106
+2017-11-25 13:19:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 13:19:05 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 13:19:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 13:19:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 13:19:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 13:19:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 13:19:05 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 14:22:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 14:22:18 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15624
+2017-11-25 14:22:18 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15609
+2017-11-25 14:22:18 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16394
+2017-11-25 14:22:28 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6734
+2017-11-25 14:22:28 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 531
+2017-11-25 14:22:31 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 14:22:32 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 14:23:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 14:23:22 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2017-11-25 14:23:22 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 14:23:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 14:23:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 14:23:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 406
+2017-11-25 14:23:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 14:23:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 14:23:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 527
+2017-11-25 14:23:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1307
+2017-11-25 14:25:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1081
+2017-11-25 14:25:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 468
+2017-11-25 14:25:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 14:30:26 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 14:30:26 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 14:30:28 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1219
+2017-11-25 14:30:34 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 14:31:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 14:31:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 14:31:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1042
+2017-11-25 14:31:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 15:38:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 15:38:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15390
+2017-11-25 15:38:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15484
+2017-11-25 15:38:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16332
+2017-11-25 15:38:30 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6218
+2017-11-25 15:38:30 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 374
+2017-11-25 15:38:32 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 15:38:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 15:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 15:39:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 15:39:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 15:39:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 15:39:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 15:39:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1017
+2017-11-25 15:39:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 16:54:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 16:54:05 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14328
+2017-11-25 16:54:05 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14453
+2017-11-25 16:54:05 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15203
+2017-11-25 16:54:15 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7312
+2017-11-25 16:54:15 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 484
+2017-11-25 16:54:18 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 16:54:18 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 16:55:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 16:55:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 16:55:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 16:55:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 328
+2017-11-25 16:55:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 16:55:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 974
+2017-11-25 16:55:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 18:09:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 18:09:52 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15515
+2017-11-25 18:09:52 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15562
+2017-11-25 18:09:54 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16593
+2017-11-25 18:10:03 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7124
+2017-11-25 18:10:03 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 656
+2017-11-25 18:10:07 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 18:10:07 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 18:10:59 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 18:11:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2017-11-25 18:11:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 18:11:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 18:11:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 18:11:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 18:11:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 562
+2017-11-25 18:11:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1105
+2017-11-25 18:11:21 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 18:12:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1095
+2017-11-25 18:12:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 19:11:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 19:11:39 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14140
+2017-11-25 19:11:39 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14140
+2017-11-25 19:11:39 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16331
+2017-11-25 19:11:49 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7203
+2017-11-25 19:11:49 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 19:11:52 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 19:11:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2017-11-25 19:13:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 19:13:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 19:13:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 19:13:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 203
+2017-11-25 19:13:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 19:13:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1152
+2017-11-25 19:13:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 19:25:10 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 19:25:10 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 19:25:11 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1080
+2017-11-25 19:25:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 19:25:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 187
+2017-11-25 19:25:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2017-11-25 19:25:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 19:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 19:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 16
+2017-11-25 19:26:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2017-11-25 19:26:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 19:26:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 19:26:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 923
+2017-11-25 19:26:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 20:41:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 20:41:23 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 12828
+2017-11-25 20:41:23 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 12859
+2017-11-25 20:41:23 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 14943
+2017-11-25 20:41:33 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6968
+2017-11-25 20:41:33 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 312
+2017-11-25 20:41:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 124
+2017-11-25 20:41:38 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 20:42:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 20:42:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 20:42:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 20:42:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 125
+2017-11-25 20:42:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 20:42:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 939
+2017-11-25 20:42:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 21:57:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 21:57:13 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15218
+2017-11-25 21:57:13 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15171
+2017-11-25 21:57:13 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16062
+2017-11-25 21:57:23 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7296
+2017-11-25 21:57:23 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 374
+2017-11-25 21:57:27 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2017-11-25 21:57:27 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 21:58:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 21:58:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1109
+2017-11-25 21:58:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 21:58:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 21:58:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 21:58:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 21:58:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1159
+2017-11-25 21:58:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 298
+2017-11-25 21:58:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 22:00:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1122
+2017-11-25 22:00:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 22:34:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 22:34:06 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15359
+2017-11-25 22:34:06 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15281
+2017-11-25 22:34:06 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16079
+2017-11-25 22:34:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2017-11-25 22:34:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2017-11-25 22:34:15 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5718
+2017-11-25 22:34:15 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5781
+2017-11-25 22:34:15 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5781
+2017-11-25 22:34:16 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 22:34:17 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2017-11-25 22:35:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2017-11-25 22:35:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1204
+2017-11-25 22:35:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-11-25 23:13:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-25 23:13:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15093
+2017-11-25 23:13:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15062
+2017-11-25 23:13:00 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16064
+2017-11-25 23:13:10 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6874
+2017-11-25 23:13:10 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 531
+2017-11-25 23:13:13 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2017-11-25 23:13:13 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 23:14:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 23:14:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2017-11-25 23:14:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2017-11-25 23:14:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 461
+2017-11-25 23:14:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2017-11-25 23:14:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 984
+2017-11-25 23:14:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62

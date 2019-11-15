@@ -3,7 +3,7 @@ version: '3.2'
 services:
   elasticsearch:
     container_name: elk-elasticsearch
-    image: elasticsearch:$ELK_VERSION
+    image: elasticsearch-ik:$ELK_VERSION
     build:
       context: elasticsearch/
       args:
@@ -16,46 +16,60 @@ services:
       - type: volume
         source: elasticsearch_data
         target: /usr/share/elasticsearch/data
+      - type: bind
+        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+      - type: bind
+        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
+        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
     ports:
       - "9200:9200"
       - "9300:9300"
     environment:
-      ES_JAVA_OPTS: "-Xmx256m -Xms256m"
+      ES_JAVA_OPTS: "-Xmx512m -Xms512m"
       ELASTIC_PASSWORD: changeme
     networks:
       - elk
 
-  logstash:
-    container_name: elk-logstash
-    image: logstash:$ELK_VERSION
-    build:
-      context: logstash/
-      args:
-        ELK_VERSION: $ELK_VERSION
-    volumes:
-      - type: bind
-        source: ./logstash/config/logstash.yml
-        target: /usr/share/logstash/config/logstash.yml
-        read_only: true
-      - type: bind
-        source: ./logstash/pipeline
-        target: /usr/share/logstash/pipeline
-        read_only: true
-    ports:
-      - "5000:5000"
-      - "9600:9600"
-    environment:
-      LS_JAVA_OPTS: "-Xmx256m -Xms256m"
-      LOGSTASH_JDBC_URL: jdbc:sqlserver://10.37.91.213:1433;databaseName=master;integratedSecurity=false;
-      LOGSTASH_JDBC_DRIVER: com.microsoft.sqlserver.jdbc.SQLServerDriver
-      LOGSTASH_JDBC_DRIVER_JAR_LOCATION: /usr/share/logstash/logstash-core/lib/jars/mssql-jdbc-7.4.1.jre12.jar
-      LOGSTASH_JDBC_USERNAME: ordermanager
-      LOGSTASH_JDBC_PASSWORD: niMdAsySredrO
-      LOGSTASH_ELASTICSEARCH_HOST: http://elasticsearch:9200
-    networks:
-      - elk
-    depends_on:
-       - elasticsearch
+  # logstash:
+  #   container_name: elk-logstash
+  #   image: logstash:$ELK_VERSION
+  #   build:
+  #     context: logstash/
+  #     args:
+  #       ELK_VERSION: $ELK_VERSION
+  #   volumes:
+  #     - type: bind
+  #       source: ./logstash/config/logstash.yml
+  #       target: /usr/share/logstash/config/logstash.yml
+  #       read_only: true
+  #     - type: bind
+  #       source: ./logstash/pipeline
+  #       target: /usr/share/logstash/pipeline
+  #       read_only: true
+  #     # - type: bind
+  #     #   source: ./logstash/config/rsyslog.conf
+  #     #   target: /etc/rsyslog.conf
+  #     #   read_only: true
+  #   ports:
+  #     - "5000:5000"
+  #     - "9600:9600"
+  #     - "514:514"
+  #     - "12201:12201/udp"
+  #   environment:
+  #     LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+  #     LOGSTASH_JDBC_URL: jdbc:sqlserver://10.37.91.213:1433;databaseName=master;integratedSecurity=false;
+  #     LOGSTASH_JDBC_DRIVER: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  #     LOGSTASH_JDBC_DRIVER_JAR_LOCATION: /usr/share/logstash/logstash-core/lib/jars/mssql-jdbc-7.4.1.jre11.jar
+  #     LOGSTASH_JDBC_USERNAME: ordermanager
+  #     LOGSTASH_JDBC_PASSWORD: niMdAsySredrO
+  #     LOGSTASH_ELASTICSEARCH_HOST: http://elasticsearch:9200
+  #   networks:
+  #     - elk
+  #   depends_on:
+  #      - elasticsearch
+  #   links:
+  #      - elasticsearch
 
   kibana:
     container_name: elk-kibana
@@ -79,24 +93,31 @@ services:
       - elk
     depends_on:
       - elasticsearch
+    links:
+       - elasticsearch
 
 # 額外加入
   filebeat:
     container_name: elk-filebeat
     image: docker.elastic.co/beats/filebeat:$ELK_VERSION
+    build:
+      context: filebeat/
+      args:
+        ELK_VERSION: $ELK_VERSION
     command: filebeat -e -strict.perms=false
     volumes:
       - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro
-      - ./filebeat/sample_log:/usr/share/filebeat/logs
+      - C:/Windows/System32/LogFiles/HTTPERR/:/usr/share/filebeat/logs/HTTPERR/
+      - C:/inetpub/logs/LogFiles/:/usr/share/filebeat/logs/LogFiles/
+      - ./nginx/log/:/usr/share/filebeat/logs/nglog/
+      - ./filebeat/modules.d/iis.yml:/usr/share/filebeat/modules.d/iis.yml:ro
+      - ./filebeat/modules.d/nginx.yml:/usr/share/filebeat/modules.d/nginx.yml:ro
     networks:
       - elk
-    links:
-       - elasticsearch
-       - kibana
     depends_on:
        - elasticsearch
        - kibana
-       - logstash
+      #  - logstash
 
   metricbeat:
     container_name: elk-metricbeat
@@ -127,30 +148,48 @@ services:
     depends_on:
       - elasticsearch
       - kibana
-      - logstash
 
-  apm_server:
-    container_name: elk_apm_server
-    image: apm-server:$ELK_VERSION
-    build:
-      context: apm/
-      args:
-        ELK_VERSION: $ELK_VERSION
-    command: /usr/share/apm-server/apm-server -e -c /usr/share/apm-server/apm-server.yml -E apm-server.host=apm_server:8200 --strict.perms=false
-    volumes:
-      - ./apm/config/apm-server.yml:/usr/share/apm-server/apm-server.yml:ro
-    healthcheck:
-      test: curl  http://apm_server:8200/healthcheck >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
-      interval: 30s
-      timeout: 10s
-      retries: 5
+  # apm_server:
+  #   container_name: elk_apm_server
+  #   image: apm-server:$ELK_VERSION
+  #   build:
+  #     context: apm/
+  #     args:
+  #       ELK_VERSION: $ELK_VERSION
+  #   command: /usr/share/apm-server/apm-server -e -c /usr/share/apm-server/apm-server.yml -E apm-server.host=apm_server:8200 --strict.perms=false
+  #   volumes:
+  #     - ./apm/config/apm-server.yml:/usr/share/apm-server/apm-server.yml:ro
+  #   # healthcheck:
+  #   #   test: curl  http://apm_server:8200/healthcheck >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
+  #   #   interval: 30s
+  #   #   timeout: 10s
+  #   #   retries: 5
+  #   ports:
+  #     - "8200:8200"
+  #   networks:
+  #     - elk
+  #   depends_on:
+  #     - elasticsearch
+  #     - kibana
+
+  nginx:
+    container_name: elk-nginx
+    build: ./nginx
     ports:
-      - "8200:8200"
+      - 8888:80
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/log/:/var/log/nginx/
+      - ./nginx/www:/usr/share/nginx/html
+      # - /etc/letsencrypt:/etc/letsencrypt
     networks:
       - elk
-    depends_on:
-      - elasticsearch
-      - kibana
+    # logging:
+    #   driver: gelf
+    #   options:
+    #     gelf-address: tcp://apm_server:8200
+    #     tag: web-container-udp
+
 
 networks:
   elk:

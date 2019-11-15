@@ -1,0 +1,1224 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 00:03:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 00:03:55 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 00:03:55 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 00:03:56 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1161
+2018-06-02 00:03:56 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 00:03:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2018-06-02 00:03:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 00:03:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 00:03:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 00:03:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 00:03:57 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 46
+2018-06-02 00:03:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 00:03:59 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 46
+2018-06-02 00:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 00:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 00:05:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1110
+2018-06-02 00:05:05 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 00:05:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 00:05:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 124
+2018-06-02 00:05:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 00:05:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 00:05:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 00:05:05 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 01:05:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 01:05:08 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14874
+2018-06-02 01:05:08 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14953
+2018-06-02 01:05:08 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15609
+2018-06-02 01:05:13 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 4046
+2018-06-02 01:05:13 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 01:05:15 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 234
+2018-06-02 01:05:15 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 01:05:15 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 01:06:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 01:06:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 01:06:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 01:06:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 546
+2018-06-02 01:06:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 01:06:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1171
+2018-06-02 01:06:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 47
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 02:17:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 02:17:07 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16749
+2018-06-02 02:17:07 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16765
+2018-06-02 02:17:07 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17734
+2018-06-02 02:17:18 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7734
+2018-06-02 02:17:18 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 02:17:21 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 02:17:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 02:17:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 02:18:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 02:18:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 375
+2018-06-02 02:18:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 02:18:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1597
+2018-06-02 02:18:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 02:18:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 34
+2018-06-02 02:18:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 02:18:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 02:18:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 02:18:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1250
+2018-06-02 02:18:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 02:18:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 02:18:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 02:18:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 02:18:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 02:18:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 02:18:43 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 02:18:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 02:18:44 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 02:20:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 02:20:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1140
+2018-06-02 02:20:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 03:47:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 03:47:37 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15203
+2018-06-02 03:47:37 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15218
+2018-06-02 03:47:37 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16031
+2018-06-02 03:47:47 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7640
+2018-06-02 03:47:47 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 124
+2018-06-02 03:47:51 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 03:47:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 03:47:52 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 03:48:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 03:48:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1221
+2018-06-02 03:48:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 03:49:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 03:49:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 03:49:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 03:49:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 03:49:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1219
+2018-06-02 03:49:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 531
+2018-06-02 03:50:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1343
+2018-06-02 03:50:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 04:48:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 04:48:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16749
+2018-06-02 04:48:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16765
+2018-06-02 04:48:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17453
+2018-06-02 04:48:51 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7468
+2018-06-02 04:48:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 04:48:54 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 04:48:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 04:48:55 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 04:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 04:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 04:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 04:50:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 04:50:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 04:50:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1281
+2018-06-02 04:50:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 05:32:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 05:32:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16156
+2018-06-02 05:32:02 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16171
+2018-06-02 05:32:03 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17275
+2018-06-02 05:32:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 593
+2018-06-02 05:32:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 828
+2018-06-02 05:32:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4124
+2018-06-02 05:32:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4140
+2018-06-02 05:32:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4156
+2018-06-02 05:32:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 30
+2018-06-02 05:32:12 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 05:32:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 05:33:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 05:33:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1062
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 124
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 05:33:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 05:46:27 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 05:46:27 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 05:46:29 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1171
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 562
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 562
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 562
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 578
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 578
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 05:46:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 05:46:37 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 05:46:40 10.37.91.214 POST /Service/ego/Site/CustomerService - 443 - 192.168.10.254 - - 200 0 0 140
+2018-06-02 05:46:41 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 78
+2018-06-02 05:47:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 05:47:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 05:47:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 05:47:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1328
+2018-06-02 05:47:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 05:47:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2018-06-02 05:47:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 05:47:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 05:47:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 05:47:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 06:03:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 06:03:54 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 06:03:54 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 06:03:55 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1218
+2018-06-02 06:03:57 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 781
+2018-06-02 06:03:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 06:03:58 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 06:03:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 06:03:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 06:05:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 06:05:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 06:05:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 06:05:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 796
+2018-06-02 06:05:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 06:05:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1312
+2018-06-02 06:05:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 06:24:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 06:24:48 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 06:24:48 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1143
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 06:24:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 06:26:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 06:26:03 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1468
+2018-06-02 06:26:03 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 07:20:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 07:20:11 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 12156
+2018-06-02 07:20:11 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 12281
+2018-06-02 07:20:12 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 13265
+2018-06-02 07:20:17 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 4343
+2018-06-02 07:20:17 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 07:20:19 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 234
+2018-06-02 07:20:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 07:20:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 07:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 07:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 07:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 07:21:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 07:21:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 515
+2018-06-02 07:21:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1113
+2018-06-02 07:21:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 08:35:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 08:35:54 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 14859
+2018-06-02 08:35:54 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 14968
+2018-06-02 08:35:55 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 15999
+2018-06-02 08:36:04 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6890
+2018-06-02 08:36:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 08:36:06 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 312
+2018-06-02 08:36:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:36:08 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 08:37:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 08:37:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1096
+2018-06-02 08:37:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:37:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:37:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:37:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:37:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:37:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 578
+2018-06-02 08:37:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1265
+2018-06-02 08:38:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2018-06-02 08:38:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:38:49 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 08:38:49 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 08:38:50 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1099
+2018-06-02 08:38:50 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 08:38:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:38:50 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 08:38:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:38:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:40:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:40:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:40:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:40:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 08:40:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 08:40:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1128
+2018-06-02 08:40:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:47:59 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:47:59 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 08:48:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2018-06-02 08:48:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 08:48:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:48:01 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 78
+2018-06-02 08:48:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:48:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:49:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:49:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 08:49:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:49:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:49:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:49:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:49:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 08:49:22 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1226
+2018-06-02 08:49:59 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 08:50:00 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1078
+2018-06-02 08:50:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 283
+2018-06-02 08:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:50:00 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 62
+2018-06-02 08:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:50:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:50:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:51:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:51:17 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:51:17 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 08:51:17 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 62
+2018-06-02 08:51:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:51:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:51:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 08:51:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 08:51:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1296
+2018-06-02 08:52:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 08:52:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 09:33:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 09:33:47 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16749
+2018-06-02 09:33:47 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16749
+2018-06-02 09:33:48 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17765
+2018-06-02 09:33:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 437
+2018-06-02 09:33:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 437
+2018-06-02 09:33:56 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5484
+2018-06-02 09:33:56 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5531
+2018-06-02 09:33:56 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5499
+2018-06-02 09:33:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:33:59 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 09:33:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2018-06-02 09:35:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 09:35:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1178
+2018-06-02 09:35:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 09:51:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 09:51:17 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 09:51:17 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 09:51:18 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1258
+2018-06-02 09:51:18 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 439
+2018-06-02 09:51:18 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:51:19 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 09:51:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:51:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:52:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:52:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 09:52:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 09:52:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 09:52:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1093
+2018-06-02 09:52:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 09:52:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 10:02:36 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 10:02:36 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 10:02:37 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 10:02:39 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 10:03:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 10:03:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 10:03:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 10:03:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1140
+2018-06-02 10:03:44 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 10:03:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 10:03:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 390
+2018-06-02 10:03:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 390
+2018-06-02 10:03:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 375
+2018-06-02 10:03:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 531
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 10:43:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 10:43:18 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16281
+2018-06-02 10:43:18 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16265
+2018-06-02 10:43:19 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17281
+2018-06-02 10:43:28 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7062
+2018-06-02 10:43:28 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 500
+2018-06-02 10:43:32 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 281
+2018-06-02 10:43:32 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 10:43:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 10:43:34 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 10:44:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 10:44:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1281
+2018-06-02 10:44:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 10:44:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 10:44:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 10:44:40 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 10:44:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1273
+2018-06-02 10:44:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 374
+2018-06-02 10:44:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 10:46:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1077
+2018-06-02 10:46:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 11:07:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 11:07:34 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15484
+2018-06-02 11:07:34 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15484
+2018-06-02 11:07:35 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 16546
+2018-06-02 11:07:44 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7187
+2018-06-02 11:07:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 11:07:47 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 11:07:47 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 11:07:49 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:08:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 11:08:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1127
+2018-06-02 11:08:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:09:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:09:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:09:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:09:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:09:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1304
+2018-06-02 11:09:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 531
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1546
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 11:10:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:10:23 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1390
+2018-06-02 11:10:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:10:23 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 46
+2018-06-02 11:10:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 11:11:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 11:11:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1109
+2018-06-02 11:11:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:15:35 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 11:15:35 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 11:15:36 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1218
+2018-06-02 11:15:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 11:15:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 11:15:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 11:15:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 11:15:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 11:15:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:15:37 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 11:15:37 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 484
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 484
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 468
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 484
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 484
+2018-06-02 11:16:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 11:16:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1109
+2018-06-02 11:16:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 12:03:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 12:03:46 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16624
+2018-06-02 12:03:46 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16640
+2018-06-02 12:03:46 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17468
+2018-06-02 12:03:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 359
+2018-06-02 12:03:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 374
+2018-06-02 12:03:55 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 6031
+2018-06-02 12:03:55 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 6078
+2018-06-02 12:03:55 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 6078
+2018-06-02 12:03:56 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:03:58 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 12:03:58 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 12:05:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 12:05:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2018-06-02 12:05:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 12:22:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 12:22:49 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 12:22:49 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 12:22:50 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2018-06-02 12:22:51 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 703
+2018-06-02 12:22:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:22:51 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 46
+2018-06-02 12:22:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:22:52 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 12:24:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:24:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:24:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:24:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 421
+2018-06-02 12:24:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 12:24:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1116
+2018-06-02 12:24:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:24:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 12:24:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1422
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 12:24:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 12:25:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 12:25:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:25:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 12:25:42 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 12:25:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1374
+2018-06-02 12:25:42 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 12:25:42 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2018-06-02 12:25:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 12:25:42 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 12:25:42 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 13:01:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 13:01:56 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16843
+2018-06-02 13:01:56 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16812
+2018-06-02 13:01:56 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17765
+2018-06-02 13:02:05 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6187
+2018-06-02 13:02:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 13:02:07 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 281
+2018-06-02 13:02:07 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:02:08 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 13:03:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 13:03:00 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1041
+2018-06-02 13:03:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 13:03:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 13:03:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 13:03:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:03:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 13:03:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 13:03:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1062
+2018-06-02 13:04:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1265
+2018-06-02 13:04:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 13:39:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 13:39:09 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16234
+2018-06-02 13:39:09 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16234
+2018-06-02 13:39:09 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17046
+2018-06-02 13:39:19 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7843
+2018-06-02 13:39:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 13:39:22 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 13:39:22 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:39:23 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 13:40:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 13:40:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 468
+2018-06-02 13:40:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 13:40:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1078
+2018-06-02 13:40:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 13:40:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 13:40:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 13:50:48 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 13:50:48 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 124
+2018-06-02 13:50:48 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1047
+2018-06-02 13:50:49 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:50:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 13:50:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2018-06-02 13:50:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 13:50:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 374
+2018-06-02 13:50:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:50:52 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 13:50:52 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:52:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:52:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 13:52:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 13:52:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1312
+2018-06-02 13:52:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 13:52:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 13:52:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 13:52:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 13:52:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 13:52:02 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 14:22:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 14:22:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16203
+2018-06-02 14:22:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16218
+2018-06-02 14:22:00 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17031
+2018-06-02 14:22:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 531
+2018-06-02 14:22:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 656
+2018-06-02 14:22:08 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4421
+2018-06-02 14:22:08 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4468
+2018-06-02 14:22:08 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4484
+2018-06-02 14:22:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:22:11 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 14:22:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 14:23:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:23:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:23:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:23:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:23:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 14:23:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 14:23:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 14:23:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1281
+2018-06-02 14:23:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:23:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:33:46 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 14:33:46 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:33:47 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1252
+2018-06-02 14:33:47 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 14:33:47 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 14:33:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:33:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:33:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2018-06-02 14:33:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:33:48 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 14:33:48 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:33:49 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 625
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 625
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 625
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 625
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 640
+2018-06-02 14:35:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:35:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1375
+2018-06-02 14:35:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 14:54:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 14:54:22 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 14:54:22 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 14:54:24 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1614
+2018-06-02 14:54:25 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 718
+2018-06-02 14:54:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 14:54:25 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 46
+2018-06-02 14:54:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 14:54:25 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 14:55:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 14:55:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 14:55:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:55:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 828
+2018-06-02 14:55:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 14:55:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1406
+2018-06-02 14:55:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 14:59:49 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 14:59:49 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 125
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1312
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 14:59:50 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:00:00 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:00:00 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 15:01:00 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:01:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:01:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:01:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 453
+2018-06-02 15:01:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 453
+2018-06-02 15:01:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 578
+2018-06-02 15:01:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 578
+2018-06-02 15:01:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 578
+2018-06-02 15:01:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:01:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1031
+2018-06-02 15:01:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:01:20 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 15:01:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:01:20 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:01:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:01:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:01:20 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 15:01:20 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:01:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 15:08:39 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 15:08:39 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1078
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 421
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 531
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 15:08:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:09:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:09:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 15:09:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 15:09:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2018-06-02 15:09:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 656
+2018-06-02 15:09:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 656
+2018-06-02 15:09:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:09:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1124
+2018-06-02 15:09:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:10:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:11:49 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:11:49 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1328
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 15:11:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 593
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 593
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 593
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 593
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 593
+2018-06-02 15:13:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:13:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2018-06-02 15:13:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 15:16:56 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:16:56 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1160
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 15:16:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:17:43 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 78
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 38
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2018-06-02 15:18:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:18:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1351
+2018-06-02 15:18:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:19:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:19:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1220
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 93
+2018-06-02 15:19:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 15:20:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:20:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 187
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 15:20:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 15:20:22 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1281
+2018-06-02 15:21:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 16:10:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 16:10:30 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 8796
+2018-06-02 16:10:30 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 8781
+2018-06-02 16:10:31 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 10062
+2018-06-02 16:10:41 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 8328
+2018-06-02 16:10:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 129
+2018-06-02 16:10:44 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 16:10:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:10:46 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:11:26 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 16:11:26 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:11:26 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:11:27 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 16:11:27 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 16:11:27 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 16:11:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:11:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1079
+2018-06-02 16:11:42 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 16:12:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:12:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:12:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:12:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 515
+2018-06-02 16:12:39 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:12:39 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1410
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 16:12:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 16:13:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 16:13:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 16:13:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:13:41 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:13:42 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1203
+2018-06-02 16:13:52 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:13:52 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1078
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 16:13:53 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 16:15:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:15:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1062
+2018-06-02 16:15:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 16:36:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 16:36:16 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 14890
+2018-06-02 16:36:16 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 11406
+2018-06-02 16:36:16 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 15890
+2018-06-02 16:36:16 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 13124
+2018-06-02 16:36:16 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 12156
+2018-06-02 16:36:16 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 13671
+2018-06-02 16:36:16 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 16343
+2018-06-02 16:36:16 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 14171
+2018-06-02 16:36:22 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 15921
+2018-06-02 16:36:27 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 124
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 16:36:27 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 16:37:41 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 0
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 16:37:41 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 17:26:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 17:26:30 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15874
+2018-06-02 17:26:30 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15843
+2018-06-02 17:26:31 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17093
+2018-06-02 17:26:40 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 6921
+2018-06-02 17:26:40 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 124
+2018-06-02 17:26:42 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 17:26:42 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:26:42 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 17:27:40 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 17:27:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1281
+2018-06-02 17:27:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:28:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:28:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:28:00 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 17:28:00 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:28:00 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 453
+2018-06-02 17:28:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1187
+2018-06-02 17:29:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1187
+2018-06-02 17:29:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:30:10 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 17:30:10 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 17:30:11 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1390
+2018-06-02 17:30:11 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 17:30:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:30:11 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 17:30:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:30:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 17:31:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:31:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 17:31:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 17:31:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 406
+2018-06-02 17:31:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 17:31:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1234
+2018-06-02 17:31:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 18:05:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 18:05:05 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16828
+2018-06-02 18:05:05 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16921
+2018-06-02 18:05:07 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 18171
+2018-06-02 18:05:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 250
+2018-06-02 18:05:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 18:05:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 3687
+2018-06-02 18:05:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 3687
+2018-06-02 18:05:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 3734
+2018-06-02 18:05:12 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:05:13 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 203
+2018-06-02 18:05:13 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:05:15 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 187
+2018-06-02 18:06:00 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 18:06:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:06:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 18:06:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 175
+2018-06-02 18:06:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1304
+2018-06-02 18:06:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:06:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:06:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:06:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 18:06:21 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 18:06:21 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:19:49 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:19:49 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:19:51 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1375
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 18:19:54 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:21:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:21:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:21:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1312
+2018-06-02 18:21:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 47
+2018-06-02 18:21:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:21:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:21:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 18:21:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 18:21:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2018-06-02 18:21:05 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:25:03 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:25:03 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:25:03 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1249
+2018-06-02 18:25:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 18:25:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:25:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 18:25:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 18:25:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 18:25:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 18:25:06 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 78
+2018-06-02 18:25:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:26:20 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1029
+2018-06-02 18:26:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 18:42:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 18:42:41 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:42:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1518
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:42:43 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 46
+2018-06-02 18:42:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 77
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 249
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 18:44:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:44:02 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1218
+2018-06-02 18:44:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:56:56 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:56:56 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1328
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 18:56:57 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 265
+2018-06-02 18:58:01 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 18:58:03 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1628
+2018-06-02 18:58:03 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 19:05:50 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 19:05:50 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1176
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 312
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 19:05:51 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 499
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 499
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 515
+2018-06-02 19:07:02 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 19:07:03 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1468
+2018-06-02 19:07:03 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 19:31:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 19:31:54 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16062
+2018-06-02 19:31:54 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16140
+2018-06-02 19:31:56 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17473
+2018-06-02 19:31:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 374
+2018-06-02 19:31:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2018-06-02 19:32:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5546
+2018-06-02 19:32:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5562
+2018-06-02 19:32:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5593
+2018-06-02 19:32:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 19:32:05 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 203
+2018-06-02 19:32:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 19:32:59 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 19:33:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1268
+2018-06-02 19:33:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 19:33:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 19:33:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 19:33:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 19:33:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 19:33:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2018-06-02 19:33:19 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 19:33:19 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 19:33:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 19:33:20 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1110
+2018-06-02 19:34:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1341
+2018-06-02 19:34:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 20:20:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 20:20:25 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 1031
+2018-06-02 20:20:25 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 1234
+2018-06-02 20:20:25 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 9249
+2018-06-02 20:20:31 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 2093
+2018-06-02 20:20:31 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 2093
+2018-06-02 20:20:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5812
+2018-06-02 20:20:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4890
+2018-06-02 20:20:33 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4890
+2018-06-02 20:20:35 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 20:20:36 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 281
+2018-06-02 20:20:36 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 343
+2018-06-02 20:21:44 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 20:21:45 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1488
+2018-06-02 20:21:45 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 21:13:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 21:13:51 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16093
+2018-06-02 21:13:51 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16093
+2018-06-02 21:13:52 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17128
+2018-06-02 21:14:01 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 7890
+2018-06-02 21:14:01 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 125
+2018-06-02 21:14:04 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 21:14:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 21:14:05 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 21:15:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 21:15:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1234
+2018-06-02 21:15:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 21:15:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 21:15:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 21:15:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 21:15:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 21:15:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 21:15:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1374
+2018-06-02 21:16:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1078
+2018-06-02 21:16:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 22:19:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 22:19:55 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 16453
+2018-06-02 22:19:55 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 16484
+2018-06-02 22:19:56 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17390
+2018-06-02 22:19:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 499
+2018-06-02 22:19:59 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 531
+2018-06-02 22:20:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5578
+2018-06-02 22:20:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5624
+2018-06-02 22:20:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 5656
+2018-06-02 22:20:04 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 22:20:06 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 171
+2018-06-02 22:20:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 22:20:08 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 109
+2018-06-02 22:21:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 22:21:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1098
+2018-06-02 22:21:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-06-02 22:21:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 296
+2018-06-02 22:21:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1145
+2018-06-02 22:22:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1120
+2018-06-02 22:22:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 22:29:04 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 22:29:04 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 22:29:04 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1015
+2018-06-02 22:29:06 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 437
+2018-06-02 22:29:06 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 22:29:07 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 31
+2018-06-02 22:29:07 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 22:29:07 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 22:30:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 22:30:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 22:30:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 22:30:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 218
+2018-06-02 22:30:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 22:30:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1234
+2018-06-02 22:30:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 23:22:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 23:22:58 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 15906
+2018-06-02 23:22:58 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15906
+2018-06-02 23:22:59 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17093
+2018-06-02 23:23:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 421
+2018-06-02 23:23:02 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 453
+2018-06-02 23:23:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4609
+2018-06-02 23:23:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4656
+2018-06-02 23:23:06 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4656
+2018-06-02 23:23:07 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 23:23:09 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 328
+2018-06-02 23:23:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 23:24:00 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 23:24:01 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1171
+2018-06-02 23:24:01 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 171
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 156
+2018-06-02 23:24:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 234
+2018-06-02 23:24:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1394
+2018-06-02 23:25:41 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1296
+2018-06-02 23:25:41 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-02 23:45:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-02 23:45:09 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 62
+2018-06-02 23:45:09 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78
+2018-06-02 23:45:09 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1062
+2018-06-02 23:45:12 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 359
+2018-06-02 23:45:12 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 328
+2018-06-02 23:45:14 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 109
+2018-06-02 23:45:14 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 109
+2018-06-02 23:45:14 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-06-02 23:46:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 23:46:20 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-06-02 23:46:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 187
+2018-06-02 23:46:20 10.37.91.214 POST /Service/ego/Product/Products - 443 - 192.168.10.254 - - 200 0 0 343
+2018-06-02 23:46:20 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 46
+2018-06-02 23:46:21 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1234
+2018-06-02 23:46:21 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 78

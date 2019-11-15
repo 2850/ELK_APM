@@ -1,0 +1,240 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 01:25:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 11499
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 10499
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 13484
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 14484
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 12562
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 8578
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/News - 80 - 192.168.10.254 - - 200 0 0 15015
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 9578
+2018-05-30 01:25:56 10.37.91.214 POST /Service/Fast/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 7749
+2018-05-30 01:26:08 10.37.91.214 POST /Service/Fast/Product/Products productNo=&categoryId=1&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 6843
+2018-05-30 01:27:22 10.37.91.214 POST /Service/Fast/Product/Products productNo=&categoryId=2&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 203
+2018-05-30 01:30:02 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 265
+2018-05-30 01:30:02 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 281
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1349
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 281
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 312
+2018-05-30 01:30:03 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15
+2018-05-30 01:30:06 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 343
+2018-05-30 01:31:09 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 93
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 218
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 250
+2018-05-30 01:31:11 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 250
+2018-05-30 01:31:12 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 1119
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 05:26:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 11468
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 12453
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 13468
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 10515
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 14499
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/News - 80 - 192.168.10.254 - - 200 0 0 15843
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 15484
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 10015
+2018-05-30 05:26:12 10.37.91.214 POST /Service/Fast/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 9437
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 07:51:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 07:51:24 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 21250
+2018-05-30 07:51:24 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 20297
+2018-05-30 07:51:24 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 19313
+2018-05-30 07:51:24 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 17313
+2018-05-30 07:51:24 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 18328
+2018-05-30 07:51:24 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 22094
+2018-05-30 07:51:24 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 22094
+2018-05-30 07:51:24 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 22141
+2018-05-30 07:51:30 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 22250
+2018-05-30 07:51:46 10.37.91.214 POST /Service/bigshop/User/LoginByOTP cellphone=0933295546&code=301110&recommendedcode=&udid= 80 - 192.168.10.254 - - 400 0 0 734
+2018-05-30 07:51:48 10.37.91.214 POST /Service/bigshop/User/ReSendCodePhone cellphone=0933295546&type=L 80 - 192.168.10.254 - - 400 0 0 470
+2018-05-30 08:04:23 10.37.91.214 POST /Service/bigshop/User/LoginByOTP cellphone=0933295546&code=570565&recommendedcode=&udid= 80 - 192.168.10.254 - - 200 0 0 328
+2018-05-30 08:04:23 10.37.91.214 POST /Service/bigshop/Bonus/SummaryBenefit token=6BB85549-E10A-436B-B381-FA0BAE097A05 80 - 192.168.10.254 - - 200 0 0 390
+2018-05-30 08:04:25 10.37.91.214 POST /Service/bigshop/Bonus/Detail token=6BB85549-E10A-436B-B381-FA0BAE097A05 80 - 192.168.10.254 - - 200 0 0 218
+2018-05-30 08:04:25 10.37.91.214 POST /Service/bigshop/Order/QueryByList token=&query=%7B%22StartIndex%22:%221%22,%22EndIndex%22:%22200%22,%22StartDate%22:%222017/05/30%22,%22EndDate%22:%222018/05/31%22,%22MallNo%22:%22%22,%22MasterNo%22:%22%22,%22MasterId%22:%22%22,%22RecName%22:%22%22,%22RecEmail%22:%22%22,%22RecTel%22:%22%22,%22RecCell%22:%22%22,%22UserAccount%22:%22sa35bgyf%22,%22Memo%22:%22%22,%22MasterNoList%22:%5B%5D%7D 80 - 192.168.10.254 - - 200 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 09:14:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 09:14:26 10.37.91.214 POST /Service/bigshop/Bonus/SummaryBenefit token=6BB85549-E10A-436B-B381-FA0BAE097A05 80 - 192.168.10.254 - - 401 0 0 11968
+2018-05-30 09:14:26 10.37.91.214 POST /Service/bigshop/User/GetNewToken token=6BB85549-E10A-436B-B381-FA0BAE097A05 80 - 192.168.10.254 - - 200 0 0 171
+2018-05-30 09:14:26 10.37.91.214 POST /Service/bigshop/Bonus/SummaryBenefit token=3c88f41d-2f08-4cda-aa18-936d0822adfb 80 - 192.168.10.254 - - 200 0 0 531
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 10:12:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 10:12:34 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 13531
+2018-05-30 10:12:34 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 10531
+2018-05-30 10:12:34 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 15390
+2018-05-30 10:12:35 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 11562
+2018-05-30 10:12:35 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 14562
+2018-05-30 10:12:35 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 15421
+2018-05-30 10:12:35 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 12578
+2018-05-30 10:12:35 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 9593
+2018-05-30 10:12:41 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 14140
+2018-05-30 10:13:48 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 8749
+2018-05-30 10:13:48 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 8749
+2018-05-30 10:13:48 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 10:13:48 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 10:13:48 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 10:13:48 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 10:13:48 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 10:13:48 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 93
+2018-05-30 10:14:05 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 5296
+2018-05-30 10:29:24 10.37.91.214 POST /Service/ego/Order/GetStoresShoppingGuide - 443 - 192.168.10.254 - - 200 0 0 6581
+2018-05-30 10:29:24 10.37.91.214 POST /Service/ego/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 6628
+2018-05-30 10:29:24 10.37.91.214 POST /Service/ego/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 7304
+2018-05-30 10:29:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1093
+2018-05-30 10:29:28 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 1093
+2018-05-30 10:29:30 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4156
+2018-05-30 10:29:30 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 3234
+2018-05-30 10:29:30 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 4328
+2018-05-30 10:29:52 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 10:29:52 10.37.91.214 POST /Service/ego/User/MessageCount - 443 - 192.168.10.254 - - 401 0 0 265
+2018-05-30 10:29:52 10.37.91.214 POST /Service/ego/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 10:29:57 10.37.91.214 POST /Service/ego/Cart/Detail - 443 - 192.168.10.254 - - 200 0 0 285
+2018-05-30 10:31:20 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 93
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 156
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 156
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 156
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 171
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 171
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 171
+2018-05-30 10:31:20 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 171
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 10:32:20 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 15
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 10:32:20 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 12:36:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 12:36:12 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 10515
+2018-05-30 12:36:12 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 9515
+2018-05-30 12:36:12 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 8515
+2018-05-30 12:36:12 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 15140
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 8874
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 9890
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 12781
+2018-05-30 12:36:12 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 14828
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 13140
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 12140
+2018-05-30 12:36:12 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 13812
+2018-05-30 12:36:12 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 11812
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 11156
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 13687
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 8187
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/News - 80 - 192.168.10.254 - - 200 0 0 15484
+2018-05-30 12:36:12 10.37.91.214 POST /Service/Fast/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 15343
+2018-05-30 12:36:18 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 13484
+2018-05-30 12:37:21 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Promotion/Promotions type=&token= 80 - 192.168.10.254 - - 200 0 0 93
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Site/News - 80 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 15
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 12:37:21 10.37.91.214 POST /Service/bigshop/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 19:48:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 19:48:30 10.37.91.214 POST /Service/DigiMobee/Site/News - 80 - 192.168.10.254 - - 200 0 0 5640
+2018-05-30 19:48:30 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 5218
+2018-05-30 19:48:33 10.37.91.214 POST /Service/GroupSale/Site/News - 80 - 192.168.10.254 - - 200 0 0 4078
+2018-05-30 19:48:33 10.37.91.214 POST /Service/GroupSale/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 6343
+2018-05-30 19:48:33 10.37.91.214 POST /Service/GroupSale/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 421
+2018-05-30 19:48:33 10.37.91.214 POST /Service/DigiMobee/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 2890
+2018-05-30 19:48:33 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 2749
+2018-05-30 19:48:33 10.37.91.214 POST /Service/DigiMobee/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 265
+2018-05-30 19:48:33 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:48:34 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 453
+2018-05-30 19:48:34 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 421
+2018-05-30 19:48:34 10.37.91.214 POST /Service/DigiMobee/Product/Products productNo=&categoryId=&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 14249
+2018-05-30 19:48:34 10.37.91.214 POST /Service/GroupSale/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 468
+2018-05-30 19:48:34 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=179&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 1093
+2018-05-30 19:48:34 10.37.91.214 POST /Service/GroupSale/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 156
+2018-05-30 19:48:34 10.37.91.214 POST /Service/GroupSale/Site/Banners type=promote_banner 80 - 192.168.10.254 - - 200 0 0 328
+2018-05-30 19:48:34 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=180&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 171
+2018-05-30 19:48:34 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 421
+2018-05-30 19:48:34 10.37.91.214 POST /Service/DigiMobee/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 468
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Product/Products productNo=&categoryId=&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/News - 80 - 192.168.10.254 - - 200 0 0 187
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 109
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 187
+2018-05-30 19:48:35 10.37.91.214 POST /Service/GroupSale/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 328
+2018-05-30 19:48:35 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=181&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 328
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 19:48:35 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 19:48:35 10.37.91.214 POST /Service/GroupSale/Site/News - 80 - 192.168.10.254 - - 200 0 0 140
+2018-05-30 19:48:35 10.37.91.214 POST /Service/GroupSale/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=big_banner 80 - 192.168.10.254 - - 200 0 0 234
+2018-05-30 19:48:35 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 15
+2018-05-30 19:48:35 10.37.91.214 POST /Service/GroupSale/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 15
+2018-05-30 19:48:35 10.37.91.214 POST /Service/GroupSale/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 187
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 484
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 312
+2018-05-30 19:48:35 10.37.91.214 POST /Service/DigiMobee/Site/Banners type=small_banner 80 - 192.168.10.254 - - 200 0 0 484
+2018-05-30 19:48:35 10.37.91.214 POST /Service/GroupSale/Site/Banners type=promote_banner 80 - 192.168.10.254 - - 200 0 0 546
+2018-05-30 19:48:36 10.37.91.214 POST /Service/GroupSale/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 828
+2018-05-30 19:48:37 10.37.91.214 POST /Service/GroupSale/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 2328
+2018-05-30 19:48:37 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=179&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 140
+2018-05-30 19:48:37 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=180&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 140
+2018-05-30 19:48:37 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=181&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 93
+2018-05-30 19:48:45 10.37.91.214 POST /Service/GroupSale/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93
+2018-05-30 19:48:45 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 140
+2018-05-30 19:48:45 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 203
+2018-05-30 19:48:46 10.37.91.214 POST /Service/GroupSale/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2046
+2018-05-30 19:48:48 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:48:48 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:48:48 10.37.91.214 POST /Service/GroupSale/User/CompanyList - 443 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 19:48:50 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:48:50 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:48:50 10.37.91.214 POST /Service/GroupSale/User/CompanyList - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:49:40 10.37.91.214 POST /Service/Site/Postal - 80 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 19:49:40 10.37.91.214 POST /Service/GroupSale/Site/SocialWelfare - 80 - 192.168.10.254 - - 200 0 0 46
+2018-05-30 19:49:40 10.37.91.214 POST /Service/GroupSale/Site/News - 80 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 19:49:40 10.37.91.214 POST /Service/GroupSale/Site/Banners type=billboard 80 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 19:49:40 10.37.91.214 POST /Service/GroupSale/Site/Banners type=promote_banner 80 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 19:49:40 10.37.91.214 POST /Service/GroupSale/Site/Banners type=hot 80 - 192.168.10.254 - - 200 0 0 140
+2018-05-30 19:49:40 10.37.91.214 POST /Service/GroupSale/Site/LiveplatesCommunity city=&area= 80 - 192.168.10.254 - - 200 0 0 203
+2018-05-30 19:49:42 10.37.91.214 POST /Service/GroupSale/Site/Sitemap - 80 - 192.168.10.254 - - 200 0 0 2015
+2018-05-30 19:49:42 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=179&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 109
+2018-05-30 19:49:42 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=180&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 156
+2018-05-30 19:49:42 10.37.91.214 POST /Service/GroupSale/Product/Products productNo=&categoryId=181&page=&itemcount=&sort=&keyword=&token= 80 - 192.168.10.254 - - 200 0 0 78
+2018-05-30 19:50:03 10.37.91.214 POST /Service/GroupSale/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2232
+2018-05-30 19:50:03 10.37.91.214 POST /Service/GroupSale/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-05-30 21:31:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-30 21:31:33 10.37.91.214 POST /Service/GroupSale/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 15796
+2018-05-30 21:31:33 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 15734
+2018-05-30 21:31:34 10.37.91.214 POST /Service/GroupSale/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 17327
+2018-05-30 21:31:35 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 21:31:35 10.37.91.214 POST /Service/GroupSale/Site/Banners - 443 - 192.168.10.254 - - 200 0 0 31
+2018-05-30 21:31:35 10.37.91.214 POST /Service/GroupSale/User/CompanyList - 443 - 192.168.10.254 - - 200 0 0 62
+2018-05-30 21:32:42 10.37.91.214 POST /Service/GroupSale/Site/Sitemap - 443 - 192.168.10.254 - - 200 0 0 2827
+2018-05-30 21:32:42 10.37.91.214 POST /Service/GroupSale/Site/Settings - 443 - 192.168.10.254 - - 200 0 0 93

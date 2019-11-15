@@ -8,37 +8,69 @@ metricbeat.autodiscover:
       # https://www.elastic.co/guide/en/beats/metricbeat/current/configuration-autodiscover-hints.html
       hints.enabled: true
 
-metricbeat.modules:
+metricbeat.config.modules:
+#Modules are enabled by reading the .modules.d sub directory. Changes to these will automatically be detected and reflected.
+  path:  /usr/share/metricbeat/modules.d/*.yml
+  reload.period: 10s
+  reload.enabled: true
+
+# metricbeat.modules:
 #------------------------------- System Module -------------------------------
-- module: system
-  metricsets: ["cpu", "load", "memory", "network", "process", "process_summary", "core", "diskio", "socket"]
-  processes: ['.*']
-  process.include_top_n:
-    by_cpu: 5
-    by_memory: 5
-  period: 10s
-  cpu.metrics:  ["percentages"]
-  core.metrics: ["percentages"]
+# - module: system
+#   metricsets: ["cpu", "load", "memory", "network", "process", "process_summary", "core", "diskio", "socket"]
+#   processes: ['.*']
+#   process.include_top_n:
+#     by_cpu: 5
+#     by_memory: 5
+#   period: 10s
+#   cpu.metrics:  ["percentages"]
+#   core.metrics: ["percentages"]
 
-- module: system
-  period: 1m
-  metricsets:
-    - filesystem
-    - fsstat
-  processors:
-  - drop_event.when.regexp:
-      system.filesystem.mount_point: '^/(sys|cgroup|proc|dev|etc|host|lib)($|/)'
+# - module: system
+#   period: 1m
+#   metricsets:
+#     - filesystem
+#     - fsstat
+#   processors:
+#   - drop_event.when.regexp:
+#       system.filesystem.mount_point: '^/(sys|cgroup|proc|dev|etc|host|lib)($|/)'
 
-- module: system
-  period: 15m
-  metricsets:
-    - uptime
+# - module: system
+#   period: 15m
+#   metricsets:
+#     - uptime
 
 #------------------------------- Docker Module -------------------------------
-- module: docker
-  metricsets: ["container", "cpu", "diskio", "healthcheck", "info", "memory", "network"]
-  hosts: ["unix:///var/run/docker.sock"]
-  period: 10s
+# - module: docker
+#   metricsets: ["container", "cpu", "diskio", "healthcheck", "info", "memory", "network"]
+#   hosts: ["unix:///var/run/docker.sock"]
+#   period: 10s
+
+#------------------------------- Windows Module -------------------------------
+# - module: windows
+#   metricsets: ["perfmon"]
+#   enabled: true
+#   period: 10s
+#   perfmon.ignore_non_existent_counters: false
+#   perfmon.group_measurements_by_instance: false
+#   perfmon.counters:
+#     - instance_label: processor.name
+#       instance_name: total
+#       measurement_label: processor.time.total.pct
+#       query: '\Processor Information(_Total)\% Processor Time'
+
+#     - instance_label: physical_disk.name
+#       measurement_label: physical_disk.write.per_sec
+#       query: '\PhysicalDisk(*)\Disk Writes/sec'
+
+#     - instance_label: physical_disk.name
+#       measurement_label: physical_disk.write.time.pct
+#       query: '\PhysicalDisk(*)\% Disk Write Time'
+
+# - module: windows
+#   metricsets: ["service"]
+#   enabled: true
+#   period: 60s
 
 #================================ Processors ===================================
 processors:
@@ -69,6 +101,7 @@ setup.kibana:
   host: "http://kibana:5601"
   username: elastic
   password: changeme
+  index: "metricbeat-*"
 
 #============================== Xpack Monitoring ===============================
 xpack.monitoring:
