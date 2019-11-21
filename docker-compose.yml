@@ -1,9 +1,10 @@
 version: '3.2'
 
 services:
+
   elasticsearch:
-    container_name: elk-elasticsearch
     image: elasticsearch-ik:$ELK_VERSION
+    container_name: elk-elasticsearch
     build:
       context: elasticsearch/
       args:
@@ -26,50 +27,129 @@ services:
       - "9200:9200"
       - "9300:9300"
     environment:
-      ES_JAVA_OPTS: "-Xmx512m -Xms512m"
-      ELASTIC_PASSWORD: changeme
+      - node.name=elasticsearch
+      - cluster.name=docker-cluster
+      - discovery.seed_hosts=elasticsearch2
+      - cluster.initial_master_nodes=elasticsearch,elasticsearch2
+      - bootstrap.memory_lock=true
+      - http.cors.enabled=true
+      - http.cors.allow-origin=*
+      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
+      - ELASTIC_PASSWORD=changeme
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
     networks:
       - elk
 
-  # logstash:
-  #   container_name: elk-logstash
-  #   image: logstash:$ELK_VERSION
+  elasticsearch2:
+    image: elasticsearch-ik:$ELK_VERSION
+    container_name: elk-elasticsearch2
+    build:
+      context: elasticsearch/
+      args:
+        ELK_VERSION: $ELK_VERSION
+    volumes:
+      - type: bind
+        source: ./elasticsearch/config/elasticsearch.yml
+        target: /usr/share/elasticsearch/config/elasticsearch.yml
+        read_only: true
+      - type: volume
+        source: elasticsearch_data2
+        target: /usr/share/elasticsearch/data
+      - type: bind
+        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+      - type: bind
+        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
+        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
+    environment:
+      - node.name=elasticsearch2
+      - cluster.name=docker-cluster
+      - discovery.seed_hosts=elasticsearch
+      - cluster.initial_master_nodes=elasticsearch,elasticsearch2
+      - bootstrap.memory_lock=true
+      - http.cors.enabled=true
+      - http.cors.allow-origin=*
+      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
+      - ELASTIC_PASSWORD=changeme
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    networks:
+      - elk
+
+  # elasticsearch:
+  #   container_name: elk-elasticsearch
+  #   image: elasticsearch-ik:$ELK_VERSION
   #   build:
-  #     context: logstash/
+  #     context: elasticsearch/
   #     args:
   #       ELK_VERSION: $ELK_VERSION
   #   volumes:
   #     - type: bind
-  #       source: ./logstash/config/logstash.yml
-  #       target: /usr/share/logstash/config/logstash.yml
+  #       source: ./elasticsearch/config/elasticsearch.yml
+  #       target: /usr/share/elasticsearch/config/elasticsearch.yml
   #       read_only: true
+  #     - type: volume
+  #       source: elasticsearch_data
+  #       target: /usr/share/elasticsearch/data
   #     - type: bind
-  #       source: ./logstash/pipeline
-  #       target: /usr/share/logstash/pipeline
-  #       read_only: true
-  #     # - type: bind
-  #     #   source: ./logstash/config/rsyslog.conf
-  #     #   target: /etc/rsyslog.conf
-  #     #   read_only: true
+  #       source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+  #       target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+  #     - type: bind
+  #       source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
+  #       target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
   #   ports:
-  #     - "5000:5000"
-  #     - "9600:9600"
-  #     - "514:514"
-  #     - "12201:12201/udp"
+  #     - "9200:9200"
+  #     - "9300:9300"
   #   environment:
-  #     LS_JAVA_OPTS: "-Xmx256m -Xms256m"
-  #     LOGSTASH_JDBC_URL: jdbc:sqlserver://10.37.91.213:1433;databaseName=master;integratedSecurity=false;
-  #     LOGSTASH_JDBC_DRIVER: com.microsoft.sqlserver.jdbc.SQLServerDriver
-  #     LOGSTASH_JDBC_DRIVER_JAR_LOCATION: /usr/share/logstash/logstash-core/lib/jars/mssql-jdbc-7.4.1.jre11.jar
-  #     LOGSTASH_JDBC_USERNAME: ordermanager
-  #     LOGSTASH_JDBC_PASSWORD: niMdAsySredrO
-  #     LOGSTASH_ELASTICSEARCH_HOST: http://elasticsearch:9200
+  #     ES_JAVA_OPTS: "-Xmx512m -Xms512m"
+  #     ELASTIC_PASSWORD: changeme
   #   networks:
   #     - elk
-  #   depends_on:
-  #      - elasticsearch
-  #   links:
-  #      - elasticsearch
+
+  logstash:
+    container_name: elk-logstash
+    image: logstash:$ELK_VERSION
+    build:
+      context: logstash/
+      args:
+        ELK_VERSION: $ELK_VERSION
+    volumes:
+      - type: bind
+        source: ./logstash/config/logstash.yml
+        target: /usr/share/logstash/config/logstash.yml
+        read_only: true
+      - type: bind
+        source: ./logstash/pipeline
+        target: /usr/share/logstash/pipeline
+        read_only: true
+      # - type: bind
+      #   source: ./logstash/config/rsyslog.conf
+      #   target: /etc/rsyslog.conf
+      #   read_only: true
+    ports:
+      - "5000:5000"
+      - "9600:9600"
+      - "514:514"
+      - "12201:12201/udp"
+    environment:
+      LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+      LOGSTASH_JDBC_URL: jdbc:sqlserver://10.37.91.213:1433;databaseName=master;integratedSecurity=false;
+      LOGSTASH_JDBC_DRIVER: com.microsoft.sqlserver.jdbc.SQLServerDriver
+      LOGSTASH_JDBC_DRIVER_JAR_LOCATION: /usr/share/logstash/logstash-core/lib/jars/mssql-jdbc-7.4.1.jre11.jar
+      LOGSTASH_JDBC_USERNAME: ordermanager
+      LOGSTASH_JDBC_PASSWORD: niMdAsySredrO
+      LOGSTASH_ELASTICSEARCH_HOST: http://elasticsearch:9200
+    depends_on:
+      - elasticsearch
+    links:
+      - elasticsearch
+    networks:
+      - elk
 
   kibana:
     container_name: elk-kibana
@@ -94,7 +174,7 @@ services:
     depends_on:
       - elasticsearch
     links:
-       - elasticsearch
+      - elasticsearch
 
 # 額外加入
   filebeat:
@@ -149,28 +229,28 @@ services:
       - elasticsearch
       - kibana
 
-  # apm_server:
-  #   container_name: elk_apm_server
-  #   image: apm-server:$ELK_VERSION
-  #   build:
-  #     context: apm/
-  #     args:
-  #       ELK_VERSION: $ELK_VERSION
-  #   command: /usr/share/apm-server/apm-server -e -c /usr/share/apm-server/apm-server.yml -E apm-server.host=apm_server:8200 --strict.perms=false
-  #   volumes:
-  #     - ./apm/config/apm-server.yml:/usr/share/apm-server/apm-server.yml:ro
-  #   # healthcheck:
-  #   #   test: curl  http://apm_server:8200/healthcheck >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
-  #   #   interval: 30s
-  #   #   timeout: 10s
-  #   #   retries: 5
-  #   ports:
-  #     - "8200:8200"
-  #   networks:
-  #     - elk
-  #   depends_on:
-  #     - elasticsearch
-  #     - kibana
+  apm_server:
+    container_name: elk_apm_server
+    image: apm-server:$ELK_VERSION
+    build:
+      context: apm/
+      args:
+        ELK_VERSION: $ELK_VERSION
+    command: /usr/share/apm-server/apm-server -e -c /usr/share/apm-server/apm-server.yml -E apm-server.host=apm_server:8200 --strict.perms=false
+    volumes:
+      - ./apm/config/apm-server.yml:/usr/share/apm-server/apm-server.yml:ro
+    # healthcheck:
+    #   test: curl  http://apm_server:8200/healthcheck >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
+    #   interval: 30s
+    #   timeout: 10s
+    #   retries: 5
+    ports:
+      - "8200:8200"
+    networks:
+      - elk
+    depends_on:
+      - elasticsearch
+      - kibana
 
   nginx:
     container_name: elk-nginx
@@ -181,6 +261,7 @@ services:
       - ./nginx/conf.d:/etc/nginx/conf.d
       - ./nginx/log/:/var/log/nginx/
       - ./nginx/www:/usr/share/nginx/html
+
       # - /etc/letsencrypt:/etc/letsencrypt
     networks:
       - elk
@@ -190,11 +271,11 @@ services:
     #     gelf-address: tcp://apm_server:8200
     #     tag: web-container-udp
 
-
 networks:
   elk:
     driver: bridge
 
 volumes:
   elasticsearch_data:
+  elasticsearch_data2:
   metricbeat:
