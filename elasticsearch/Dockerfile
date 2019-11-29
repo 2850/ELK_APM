@@ -6,5 +6,6 @@ FROM docker.elastic.co/elasticsearch/elasticsearch:${ELK_VERSION}
 # Add your elasticsearch plugins setup here
 # Example: RUN elasticsearch-plugin install analysis-icu
 
-COPY plugin/elasticsearch-analysis-ik-7.4.1 /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1
-COPY plugin/elasticsearch-analysis-stconvert-7.4.1 /usr/share/elasticsearch/plugins/elasticsearch-analysis-stconvert-7.4.1
+COPY plugin/analysis-ik-7.3.0 /usr/share/elasticsearch/plugins/analysis-ik-7.3.0
+COPY plugin/analysis-stconvert-7.3.0 /usr/share/elasticsearch/plugins/analysis-stconvert-7.3.0
+COPY plugin/jieba /usr/share/elasticsearch/plugins/jieba

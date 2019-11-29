@@ -2,88 +2,9 @@ version: '3.2'
 
 services:
 
-  elasticsearch:
-    image: elasticsearch-ik:$ELK_VERSION
-    container_name: elk-elasticsearch
-    build:
-      context: elasticsearch/
-      args:
-        ELK_VERSION: $ELK_VERSION
-    volumes:
-      - type: bind
-        source: ./elasticsearch/config/elasticsearch.yml
-        target: /usr/share/elasticsearch/config/elasticsearch.yml
-        read_only: true
-      - type: volume
-        source: elasticsearch_data
-        target: /usr/share/elasticsearch/data
-      - type: bind
-        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
-        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
-      - type: bind
-        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
-        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
-    ports:
-      - "9200:9200"
-      - "9300:9300"
-    environment:
-      - node.name=elasticsearch
-      - cluster.name=docker-cluster
-      - discovery.seed_hosts=elasticsearch2
-      - cluster.initial_master_nodes=elasticsearch,elasticsearch2
-      - bootstrap.memory_lock=true
-      - http.cors.enabled=true
-      - http.cors.allow-origin=*
-      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
-      - ELASTIC_PASSWORD=changeme
-    ulimits:
-      memlock:
-        soft: -1
-        hard: -1
-    networks:
-      - elk
-
-  elasticsearch2:
-    image: elasticsearch-ik:$ELK_VERSION
-    container_name: elk-elasticsearch2
-    build:
-      context: elasticsearch/
-      args:
-        ELK_VERSION: $ELK_VERSION
-    volumes:
-      - type: bind
-        source: ./elasticsearch/config/elasticsearch.yml
-        target: /usr/share/elasticsearch/config/elasticsearch.yml
-        read_only: true
-      - type: volume
-        source: elasticsearch_data2
-        target: /usr/share/elasticsearch/data
-      - type: bind
-        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
-        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
-      - type: bind
-        source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
-        target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
-    environment:
-      - node.name=elasticsearch2
-      - cluster.name=docker-cluster
-      - discovery.seed_hosts=elasticsearch
-      - cluster.initial_master_nodes=elasticsearch,elasticsearch2
-      - bootstrap.memory_lock=true
-      - http.cors.enabled=true
-      - http.cors.allow-origin=*
-      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
-      - ELASTIC_PASSWORD=changeme
-    ulimits:
-      memlock:
-        soft: -1
-        hard: -1
-    networks:
-      - elk
-
   # elasticsearch:
-  #   container_name: elk-elasticsearch
   #   image: elasticsearch-ik:$ELK_VERSION
+  #   container_name: elk-elasticsearch
   #   build:
   #     context: elasticsearch/
   #     args:
@@ -106,10 +27,93 @@ services:
   #     - "9200:9200"
   #     - "9300:9300"
   #   environment:
-  #     ES_JAVA_OPTS: "-Xmx512m -Xms512m"
-  #     ELASTIC_PASSWORD: changeme
+  #     - node.name=elasticsearch
+  #     - cluster.name=docker-cluster
+  #     - discovery.seed_hosts=elasticsearch2
+  #     - cluster.initial_master_nodes=elasticsearch,elasticsearch2
+  #     - bootstrap.memory_lock=true
+  #     - http.cors.enabled=true
+  #     - http.cors.allow-origin=*
+  #     - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+  #     - ELASTIC_PASSWORD=changeme
+  #   ulimits:
+  #     memlock:
+  #       soft: -1
+  #       hard: -1
   #   networks:
   #     - elk
+
+  # elasticsearch2:
+  #   image: elasticsearch-ik:$ELK_VERSION
+  #   container_name: elk-elasticsearch2
+  #   build:
+  #     context: elasticsearch/
+  #     args:
+  #       ELK_VERSION: $ELK_VERSION
+  #   volumes:
+  #     - type: bind
+  #       source: ./elasticsearch/config/elasticsearch.yml
+  #       target: /usr/share/elasticsearch/config/elasticsearch.yml
+  #       read_only: true
+  #     - type: volume
+  #       source: elasticsearch_data2
+  #       target: /usr/share/elasticsearch/data
+  #     - type: bind
+  #       source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+  #       target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/IKAnalyzer.cfg.xml
+  #     - type: bind
+  #       source: ./elasticsearch/plugin/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
+  #       target: /usr/share/elasticsearch/plugins/elasticsearch-analysis-ik-7.4.1/config/custom/zhTW/yfy.dic
+  #   environment:
+  #     - node.name=elasticsearch2
+  #     - cluster.name=docker-cluster
+  #     - discovery.seed_hosts=elasticsearch
+  #     - cluster.initial_master_nodes=elasticsearch,elasticsearch2
+  #     - bootstrap.memory_lock=true
+  #     - http.cors.enabled=true
+  #     - http.cors.allow-origin=*
+  #     - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+  #     - ELASTIC_PASSWORD=changeme
+  #   ulimits:
+  #     memlock:
+  #       soft: -1
+  #       hard: -1
+  #   networks:
+  #     - elk
+
+  elasticsearch:
+    container_name: elk-elasticsearch
+    image: elasticsearch-ik:$ELK_VERSION
+    build:
+      context: elasticsearch/
+      args:
+        ELK_VERSION: $ELK_VERSION
+    volumes:
+      - type: bind
+        source: ./elasticsearch/config/elasticsearch.yml
+        target: /usr/share/elasticsearch/config/elasticsearch.yml
+        read_only: true
+      - type: volume
+        source: elasticsearch_data_single
+        target: /usr/share/elasticsearch/data
+      - type: bind
+        source: ./elasticsearch/plugin/analysis-ik-7.3.0/config/IKAnalyzer.cfg.xml
+        target: /usr/share/elasticsearch/plugins/analysis-ik-7.3.0/config/IKAnalyzer.cfg.xml
+      - type: bind
+        source: ./elasticsearch/plugin/analysis-ik-7.3.0/config/custom/zhTW/yfy.dic
+        target: /usr/share/elasticsearch/plugins/analysis-ik-7.3.0/config/custom/zhTW/yfy.dic
+      - type: bind
+        source: ./elasticsearch/plugin/jieba/dic/user.dict
+        target: /usr/share/elasticsearch/plugins/jieba/dic/user.dict
+
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    environment:
+      ES_JAVA_OPTS: "-Xmx512m -Xms512m"
+      ELASTIC_PASSWORD: changeme
+    networks:
+      - elk
 
   logstash:
     container_name: elk-logstash
@@ -187,70 +191,71 @@ services:
     command: filebeat -e -strict.perms=false
     volumes:
       - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro
-      - C:/Windows/System32/LogFiles/HTTPERR/:/usr/share/filebeat/logs/HTTPERR/
-      - C:/inetpub/logs/LogFiles/:/usr/share/filebeat/logs/LogFiles/
-      - ./nginx/log/:/usr/share/filebeat/logs/nglog/
+      # - C:/Windows/System32/LogFiles/HTTPERR/:/usr/share/filebeat/logs/HTTPERR/
+      # - C:/inetpub/logs/LogFiles/:/usr/share/filebeat/logs/LogFiles/
+      - D:/docker/ELK/docker-elk/DataSource/EGOLog/:/usr/share/filebeat/logs/LogFiles/IISLOG/
+      # - ./nginx/log/:/usr/share/filebeat/logs/nglog/
       - ./filebeat/modules.d/iis.yml:/usr/share/filebeat/modules.d/iis.yml:ro
-      - ./filebeat/modules.d/nginx.yml:/usr/share/filebeat/modules.d/nginx.yml:ro
+      # - ./filebeat/modules.d/nginx.yml:/usr/share/filebeat/modules.d/nginx.yml:ro
     networks:
       - elk
     depends_on:
        - elasticsearch
        - kibana
-      #  - logstash
+       - logstash
 
-  metricbeat:
-    container_name: elk-metricbeat
-    image: docker.elastic.co/beats/metricbeat:$ELK_VERSION
-    user: root
-    networks:
-      - elk
-    volumes:
-      - .\metricbeat\metricbeat.yml:/usr/share/metricbeat/metricbeat.yml:ro
-      - .\metricbeat\modules.d\:/usr/share/metricbeat/modules.d/
-      - /proc:/hostfs/proc:ro
-      - /sys/fs/cgroup:/hostfs/sys/fs/cgroup:ro
-      - /var/run/docker.sock:/var/run/docker.sock
-      # - :/hostfs:ro
-      # - c:\:/rootfs:ro
-      - .\metricbeat\:/rootfs:ro
-      # - metricbeat:/usr/share/metricbeat/data
-    environment:
-      ELASTICSEARCH_HOST: http://elasticsearch:9200
-      KIBANA_HOST: http://kibana:5601
-      ELASTICSEARCH_USERNAME: elastic
-      ELASTICSEARCH_PASSWORD: changeme
-    # disable strict permission checks
-    command: ["--strict.perms=false", "-system.hostfs=/hostfs"]
-    links:
-      - elasticsearch
-      - kibana
-    depends_on:
-      - elasticsearch
-      - kibana
+  # metricbeat:
+  #   container_name: elk-metricbeat
+  #   image: docker.elastic.co/beats/metricbeat:$ELK_VERSION
+  #   user: root
+  #   networks:
+  #     - elk
+  #   volumes:
+  #     - .\metricbeat\metricbeat.yml:/usr/share/metricbeat/metricbeat.yml:ro
+  #     - .\metricbeat\modules.d\:/usr/share/metricbeat/modules.d/
+  #     - /proc:/hostfs/proc:ro
+  #     - /sys/fs/cgroup:/hostfs/sys/fs/cgroup:ro
+  #     - /var/run/docker.sock:/var/run/docker.sock
+  #     # - :/hostfs:ro
+  #     # - c:\:/rootfs:ro
+  #     - .\metricbeat\:/rootfs:ro
+  #     # - metricbeat:/usr/share/metricbeat/data
+  #   environment:
+  #     ELASTICSEARCH_HOST: http://elasticsearch:9200
+  #     KIBANA_HOST: http://kibana:5601
+  #     ELASTICSEARCH_USERNAME: elastic
+  #     ELASTICSEARCH_PASSWORD: changeme
+  #   # disable strict permission checks
+  #   command: ["--strict.perms=false", "-system.hostfs=/hostfs"]
+  #   links:
+  #     - elasticsearch
+  #     - kibana
+  #   depends_on:
+  #     - elasticsearch
+  #     - kibana
 
-  apm_server:
-    container_name: elk_apm_server
-    image: apm-server:$ELK_VERSION
-    build:
-      context: apm/
-      args:
-        ELK_VERSION: $ELK_VERSION
-    command: /usr/share/apm-server/apm-server -e -c /usr/share/apm-server/apm-server.yml -E apm-server.host=apm_server:8200 --strict.perms=false
-    volumes:
-      - ./apm/config/apm-server.yml:/usr/share/apm-server/apm-server.yml:ro
-    # healthcheck:
-    #   test: curl  http://apm_server:8200/healthcheck >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
-    #   interval: 30s
-    #   timeout: 10s
-    #   retries: 5
-    ports:
-      - "8200:8200"
-    networks:
-      - elk
-    depends_on:
-      - elasticsearch
-      - kibana
+  # apm_server:
+  #   container_name: elk_apm_server
+  #   image: apm-server:$ELK_VERSION
+  #   build:
+  #     context: apm/
+  #     args:
+  #       ELK_VERSION: $ELK_VERSION
+  #   command: /usr/share/apm-server/apm-server -e -c /usr/share/apm-server/apm-server.yml -E apm-server.host=apm_server:8200 --strict.perms=false
+  #   volumes:
+  #     - ./apm/config/apm-server.yml:/usr/share/apm-server/apm-server.yml:ro
+  #   # healthcheck:
+  #   #   test: curl  http://apm_server:8200/healthcheck >/dev/null; if [[ $$? == 52 ]]; then echo 0; else echo 1; fi
+  #   #   interval: 30s
+  #   #   timeout: 10s
+  #   #   retries: 5
+  #   ports:
+  #     - "8200:8200"
+  #   networks:
+  #     - elk
+  #   depends_on:
+  #     - elasticsearch
+  #     - kibana
 
   nginx:
     container_name: elk-nginx
@@ -276,6 +281,7 @@ networks:
     driver: bridge
 
 volumes:
+  elasticsearch_data_single:
   elasticsearch_data:
   elasticsearch_data2:
   metricbeat:
